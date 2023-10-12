@@ -5,6 +5,6 @@ import { Inter } from 'next/font/google'
 
 export default function Home() {
   return (
-    <div>HI</div>
+    <div className='bg-green'>HI</div>
   )
 }
